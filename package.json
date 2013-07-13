@@ -1,0 +1,21 @@
+{
+  "name": "testable-middleware",
+  "version": "0.2.4",
+  "description": "Connect middleware wrapper for testable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:joeytrapp/node-testable-middleware.git"
+  },
+  "author": "Joey Trapp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeytrapp/node-testable-middleware/issues"
+  },
+  "dependencies": {
+    "testable": "~0.2.4"
+  }
+}
