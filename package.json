@@ -1,6 +1,6 @@
 {
   "name": "testable-middleware",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Connect middleware wrapper for testable",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/joeytrapp/node-testable-middleware/issues"
   },
   "dependencies": {
-    "testable": "~0.3.0",
+    "testable": "~0.3.1",
     "connect": "~2.8.4"
   }
 }
